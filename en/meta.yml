@@ -1,12 +1,12 @@
-title: rpi-sensehat-load-image-led
+title: Load an image onto the Sense HAT LED matrix
 hero_image: images/banner.png
-description: rpi-sensehat-load-image-led description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Learn how to load a PNG or JPG image onto the Sense HAT LED matrix
+original_url:
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
-interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
-technologies: "scratch, python, html/css, micro:bit"
+ingredient: true
+interests: ""
+technologies: "python"
 steps:
   - title: Step one
