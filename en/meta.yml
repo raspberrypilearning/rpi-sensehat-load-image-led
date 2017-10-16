@@ -1,0 +1,13 @@
+title: Load an image file on the Sense HAT LED matrix
+hero_image: images/banner.png
+description: Learn how to display a PNG or JPG image on the Sense HAT LED matrix
+original_url:
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "python"
+steps:
+  - title: Load an image file
